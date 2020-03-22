@@ -1,2 +1,2 @@
 # ProjetoBD
-Grupo: Henrique Neves, Elisa Nascimento Mesquita, Ricardo, Aline
+Grupo: Henrique Neves Costa, Elisa Nascimento Mesquita, Ricardo, Aline
