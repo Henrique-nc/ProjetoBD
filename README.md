@@ -1,3 +1,2 @@
 # ProjetoBD
-Grupo: Henrique Neves, Elisa, Ricardo, Aline
-Teste
+Grupo: Henrique Neves, Elisa Nascimento Mesquita, Ricardo, Aline
