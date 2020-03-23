@@ -1,2 +1,2 @@
 # ProjetoBD
-Grupo: Henrique Neves Costa, Elisa Nascimento Mesquita, Ricardo Vitor, Aline Pereira Brandão
+Grupo: Henrique Neves Costa, Elisa Nascimento Mesquita, Ricardo Vitor Pereira Martins, Aline Pereira Brandão
