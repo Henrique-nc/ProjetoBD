@@ -19,3 +19,18 @@
 * Fornecedores
 * Cliente
 * Filial
+
+### Quadro de relações
+
+|              | Filial | Cliente | Fornecedor | Relatório | Produto | Estoque | Funcionário | Confeitero | Vendedor | Venda |
+| :----------: | :----: | :-----: | :--------: | :-------: | :-----: | :-----: | :---------: | :--------: | :------: | :---: |
+| Filial       |
+| Cliente      |
+| Fornecedor   |
+| Relatório    |
+| Produto      |
+| Estoque      | 
+| Funcionário  |
+| Confeitero   |
+| Vendedor     |
+| Venda        |
