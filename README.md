@@ -24,13 +24,13 @@
 
 |              | Filial | Cliente | Fornecedor | Relatório | Produto | Estoque | Funcionário | Confeitero | Vendedor | Venda |
 | :----------: | :----: | :-----: | :--------: | :-------: | :-----: | :-----: | :---------: | :--------: | :------: | :---: |
-| Filial       | -      |         |            |           |         |         |             |            |          |       |
-| Cliente      | -      | -       |            |           |         |         |             |            |          |       |
-| Fornecedor   | -      | -       | -          |           |         |         |             |            |          |       |
+| Filial       | -      |         |      x     |    x      |         |   x     |    x        |     x      |    x     |       |
+| Cliente      | -      | -       |            |           | x       |         |    x        |            |    x     |  x    |
+| Fornecedor   | -      | -       | -          |           |         |    x    |             |            |          |       |
 | Relatório    | -      | -       | -          | -         |         |         |             |            |          |       |
-| Produto      | -      | -       | -          | -         | -       |         |             |            |          |       |
+| Produto      | -      | -       | -          | -         | -       |    x    |             |            |          |  x    |
 | Estoque      | -      | -       | -          | -         | -       | -       |             |            |          |       |
-| Funcionário  | -      | -       | -          | -         | -       | -       | -           |            |          |       |
+| Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      | x     |
 | Confeitero   | -      | -       | -          | -         | -       | -       | -           | -          |          |       |
-| Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |       |
+| Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |  x    |
 | Venda        | -      | -       | -          | -         | -       | -       | -           | -          | -        | -     |
