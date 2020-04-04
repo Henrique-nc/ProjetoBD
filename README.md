@@ -28,7 +28,7 @@
 | Cliente      | -      | -       |            |           |         |         |             |            |          |  x    |
 | Fornecedor   | -      | -       | -          |           |         |    x    |             |            |          |       |
 | Relatório    | -      | -       | -          | -         |         |         |             |            |          | x     |
-| Produto      | -      | -       | -          | -         | -       |    x    |             |            |          |  x    |
+| Produto      | -      | -       | -          | -         | -       |    x    |             |      x     |    x     |       |
 | Estoque      | -      | -       | -          | -         | -       | -       |             |            |          |       |
 | Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      | x     |
 | Confeitero   | -      | -       | -          | -         | -       | -       | -           | -          |          |       |
