@@ -24,7 +24,7 @@
 
 |              | Filial | Cliente | Fornecedor | Relatório | Produto | Estoque | Funcionário | Confeitero | Vendedor | Venda |
 | :----------: | :----: | :-----: | :--------: | :-------: | :-----: | :-----: | :---------: | :--------: | :------: | :---: |
-| Filial       | -      |         |      x     |    x      |         |   x     |    x        |     x      |    x     |       |
+| Filial       | -      |         |            |    x      |         |   x     |    x        |     x      |    x     |       |
 | Cliente      | -      | -       |            |           | x       |         |    x        |            |    x     |  x    |
 | Fornecedor   | -      | -       | -          |           |         |    x    |             |            |          |       |
 | Relatório    | -      | -       | -          | -         |         |         |             |            |          |       |
