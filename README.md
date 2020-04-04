@@ -27,7 +27,7 @@
 | Filial       | -      |         |            |    x      |     x   |   x     |    x        |     x      |    x     |       |
 | Cliente      | -      | -       |            |           |         |         |             |            |          |  x    |
 | Fornecedor   | -      | -       | -          |           |         |    x    |             |            |          |       |
-| Relatório    | -      | -       | -          | -         |         |         |             |            |          |       |
+| Relatório    | -      | -       | -          | -         |         |         |             |            |          | x     |
 | Produto      | -      | -       | -          | -         | -       |    x    |             |            |          |  x    |
 | Estoque      | -      | -       | -          | -         | -       | -       |             |            |          |       |
 | Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      | x     |
