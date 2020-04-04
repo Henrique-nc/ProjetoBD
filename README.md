@@ -30,7 +30,7 @@
 | Relatório    | -      | -       | -          | -         |         |         |             |            |          | x     |
 | Produto      | -      | -       | -          | -         | -       |    x    |             |      x     |    x     |       |
 | Estoque      | -      | -       | -          | -         | -       | -       |             |            |          |       |
-| Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      | x     |
+| Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      |       |
 | Confeitero   | -      | -       | -          | -         | -       | -       | -           | -          |          |       |
 | Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |  x    |
 | Venda        | -      | -       | -          | -         | -       | -       | -           | -          | -        | -     |
