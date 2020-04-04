@@ -35,5 +35,7 @@
 | Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |  x    |
 | Venda        | -      | -       | -          | -         | -       | -       | -           | -          | -        | -     |
 
+## **Modelo Conceitual**
+
 ![1 0](https://user-images.githubusercontent.com/62437015/78414978-45ff0680-75f5-11ea-8073-e5cfcc85aca5.PNG)
 
