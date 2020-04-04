@@ -24,13 +24,13 @@
 
 |              | Filial | Cliente | Fornecedor | Relatório | Produto | Estoque | Funcionário | Confeitero | Vendedor | Venda |
 | :----------: | :----: | :-----: | :--------: | :-------: | :-----: | :-----: | :---------: | :--------: | :------: | :---: |
-| Filial       |
-| Cliente      |
-| Fornecedor   |
-| Relatório    |
-| Produto      |
-| Estoque      | 
-| Funcionário  |
-| Confeitero   |
-| Vendedor     |
-| Venda        |
+| Filial       | x      |         |            |           |         |         |             |            |          |       |
+| Cliente      | x      | x       |            |           |         |         |             |            |          |       |
+| Fornecedor   | x      | x       | x          |           |         |         |             |            |          |       |
+| Relatório    | x      | x       | x          | x         |         |         |             |            |          |       |
+| Produto      | x      | x       | x          | x         | x       |         |             |            |          |       |
+| Estoque      | x      | x       | x          | x         | x       | x       |             |            |          |       |
+| Funcionário  | x      | x       | x          | x         | x       | x       | x           |            |          |       |
+| Confeitero   | x      | x       | x          | x         | x       | x       | x           | x          |          |       |
+| Vendedor     | x      | x       | x          | x         | x       | x       | x           | x          | x        |       |
+| Venda        | x      | x       | x          | x         | x       | x       | x           | x          | x        | x     |
