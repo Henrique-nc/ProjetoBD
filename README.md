@@ -37,7 +37,4 @@
 
 ## **Modelo Conceitual**
 
-![3 0](https://user-images.githubusercontent.com/62437015/79168519-8104f500-7dc0-11ea-9daf-2b2f0638938d.PNG)
-
-
-
+![3 0](https://user-images.githubusercontent.com/62437015/79169766-a8a98c80-7dc3-11ea-92e8-a9e80c582326.PNG)
