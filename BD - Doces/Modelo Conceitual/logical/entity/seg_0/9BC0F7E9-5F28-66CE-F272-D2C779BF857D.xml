@@ -1,0 +1,74 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="9BC0F7E9-5F28-66CE-F272-D2C779BF857D" name="CONFEITEIRO">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:34:53 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="NOME" id="D0D20856-62C1-CE9D-FD3B-D336EF861077">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:35:04 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CPF" id="6CD2379B-821B-F9F1-8429-21DB1F43B668">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:35:08 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TELEFONE" id="7FED9847-A373-2B90-6C71-E5174F024D42">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:35:11 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="EMAIL" id="3BBFAA40-D112-8BA8-2137-6D6EF182F86A">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:35:15 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ENDEREÇO" id="FF53AC35-2459-57FD-EB25-CF21AF00CBF4">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:35:22 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

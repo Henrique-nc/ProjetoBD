@@ -1,0 +1,77 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D9763DAC-0460-8A30-A83C-5347DD5671CA" name="VENDA">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:32:22 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="NF" id="CFD59D09-D0E8-7CE2-4567-E90D6AC74168">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:32:36 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DATA" id="484058F1-A177-F5D0-37A1-DF3EAFCE495A">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:32:42 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="VALOR TOTAL" id="CAB9AAF5-88D3-7A10-9A2E-F40E89F3CEB8">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:32:44 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CPF" id="F7FE5876-1998-E41B-2B37-627B4FF5BFC0">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:46:15 UTC</createdTime>
+<generatorID>D29C52AE-715C-03AF-92CE-E9BEF200AA2F</generatorID>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<referedAttribute>62410A8F-84E3-FD25-8E52-C498537C8DEE</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="15E81EB1-86B2-542D-A343-FD5B9A8CC40F" name="VENDA PK">
+<createdBy>Henrique</createdBy>
+<createdTime>2020-04-14 23:46:06 UTC</createdTime>
+<ownerDesignName>Modelo Conceitual</ownerDesignName>
+<engineerTo>
+<item key="EEBA6695-C906-456E-199D-7D75857DC460" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>CFD59D09-D0E8-7CE2-4567-E90D6AC74168</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>
