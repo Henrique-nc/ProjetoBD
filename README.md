@@ -13,7 +13,7 @@
 ## **Entidades**
 * Vendas
 * Funcionários: Confeiteiro e vendedor *(herança)*
-* Estoque
+* Insumo
 * Produtos
 * Relatórios
 * Fornecedores
@@ -22,14 +22,14 @@
 
 ## **Quadro de relações**
 
-|              | Filial | Cliente | Fornecedor | Relatório | Produto | Estoque | Funcionário | Confeitero | Vendedor | Venda |
+|              | Filial | Cliente | Fornecedor | Relatório | Produto | Insumo  | Funcionário | Confeitero | Vendedor | Venda |
 | :----------: | :----: | :-----: | :--------: | :-------: | :-----: | :-----: | :---------: | :--------: | :------: | :---: |
 | Filial       | -      |         |            |    x      |     x   |   x     |    x        |     x      |    x     |       |
 | Cliente      | -      | -       |            |           |         |         |             |            |          |  x    |
 | Fornecedor   | -      | -       | -          |           |         |    x    |             |            |          |       |
 | Relatório    | -      | -       | -          | -         |         |         |             |            |          | x     |
 | Produto      | -      | -       | -          | -         | -       |    x    |             |      x     |    x     |       |
-| Estoque      | -      | -       | -          | -         | -       | -       |             |            |          |       |
+| Insumo       | -      | -       | -          | -         | -       | -       |             |            |          |       |
 | Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      |       |
 | Confeitero   | -      | -       | -          | -         | -       | -       | -           | -          |          |       |
 | Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |  x    |
