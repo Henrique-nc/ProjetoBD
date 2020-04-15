@@ -23,12 +23,12 @@
 
 ## **Atributos**
 
-| Vendas        | Confeiteiro | Vendedor | *Insumo* | Produtos     | Relatórios     | Fornecedores | Cliente  | Filial     |
-| :-----------: | :---------: | :------: | :------: | :----------: | :------------: | :----------: | :------: | :--------: |
-| Nota Fiscal # | Nome        | Nome     | Validade | Nome #       | Nome produto # | CNPJ         | Nome     | CNPJ       |
-| Data          | CPF #       | CPF #    | Entrega  | Validade     | Semestre #     | Empresa      | CPF #    | Endereço # |
-| Valor total   | Telefone    | Telefone | Item #   | Ingredientes | Resultado      | Marca        | Telefone | Gerente    |
-|               | Email       | Email    | Marca #  |              |                | Data         | Email    |
+| Vendas        | Confeiteiro | Vendedor | **Insumo** | Produtos     | Relatórios     | Fornecedores | Cliente  | Filial     |
+| :-----------: | :---------: | :------: | :--------: | :----------: | :------------: | :----------: | :------: | :--------: |
+| Nota Fiscal # | Nome        | Nome     | Validade   | Nome #       | Nome produto # | CNPJ         | Nome     | CNPJ       |
+| Data          | CPF #       | CPF #    | Entrega    | Validade     | Semestre #     | Empresa      | CPF #    | Endereço # |
+| Valor total   | Telefone    | Telefone | Item #     | Ingredientes | Resultado      | Marca        | Telefone | Gerente    |
+|               | Email       | Email    | Marca #    |              |                | Data         | Email    |
 |               | Endereço    | Endereço |                                          
 
 
