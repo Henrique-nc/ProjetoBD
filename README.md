@@ -23,13 +23,13 @@
 
 ## **Atributos**
 
-| Confeiteiro | Vendedor | **Insumo** | Cliente  | Fornecedores | Produtos     | Relatórios     | Filial     | Vendas        |
-| :---------: | :------: | :--------: | :------: | :----------: | :----------: | :------------: | :--------: | :-----------: |
-| Nome        | Nome     | Validade   | Nome     | CNPJ         | Nome #       | Nome produto # | CNPJ       | Nota Fiscal # |
-| CPF #       | CPF #    | Entrega    | CPF #    | Empresa      | Validade     | Semestre #     | Endereço # | Data          |
-| Telefone    | Telefone | Item #     | Telefone | Marca        | Ingredientes | Resultado      | Gerente    | Valor total   |
-| Email       | Email    | Marca #    | Email    | Data         |              |                |            |               |
-| Endereço    | Endereço |                                                                            
+| Confeiteiro | Vendedor   | Insumo     | Cliente    | Fornecedores | Produtos       | Relatórios     | Filial     | Vendas        |
+| :---------: | :--------: | :--------: | :--------: | :----------: | :------------: | :------------: | :--------: | :-----------: |
+| Nome *      | Nome *     | Validade * | Nome *     | CNPJ #       | Nome #         | Nome produto # | CNPJ *     | Nota Fiscal # |
+| CPF #       | CPF #      | Entrega *  | CPF #      | Empresa *    | Validade *     | Semestre #     | Endereço # | Data *        |
+| Telefone *  | Telefone * | Item #     | Telefone * | Marca *      | Ingredientes o | Resultado *    | Gerente *  | Valor total * |
+| Email o     | Email o    | Marca #    | Email o    | Data *       |                |                |            |               |
+| Endereço *  | Endereço * |                                                                            
 
 
 ## **Quadro de relações**
