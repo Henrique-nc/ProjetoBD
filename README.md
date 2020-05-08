@@ -51,4 +51,4 @@ Obs.: Resultado = Produto a ser substituído.
 
 ## **Modelo Conceitual**
 
-![Capturar](https://user-images.githubusercontent.com/62437015/79284732-ed035e00-7e91-11ea-8487-f3b62ff6cee6.PNG)
+![WhatsApp Image 2020-05-08 at 20 18 10](https://user-images.githubusercontent.com/62437015/81456632-717f8e80-9169-11ea-938c-3b6a4fa9e3c1.jpeg)
