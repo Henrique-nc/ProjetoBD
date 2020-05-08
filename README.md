@@ -28,8 +28,8 @@
 | Nome *      | Nome *      | Validade * | Nome *     | CNPJ #      | Nome *         | Nome produto #  | CNPJ *      | Nota Fiscal #  |
 | CPF #       | CPF #       | Entrega *  | CPF #      | Empresa *   | Validade *     | Semestre #      | Endereço #  | Data *         |
 | Telefone *  | Telefone *  | Item #     | Telefone * | Marca *     | Ingredientes o | Resultado *     | Gerente *   | Valor total *  |
-| Email o     | Email o     | Marca #    | Email o    | Data *      | ID #           |                 |             |                |
-| Endereço *  | Endereço *  |                                                                            
+| Email o     | Email o     | Marca #    | Email o    | Data *      | ID #           | ID #            | Email o     |                |
+| Endereço *  | Endereço *  |            |            |             |                |                 | Telefone *  |
 
 
 ## **Quadro de relações**
