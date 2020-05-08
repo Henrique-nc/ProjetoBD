@@ -6,7 +6,7 @@
 * Aline Pereira Brandão
 
 ## **Descrição do cenário**
- Gabi, dona de uma loja de doces gourmet, contratou uma empresa para desenvolver um banco de dados para gerenciar as vendas das faliais, quadro de funcionários e o controle do estoque. <br>
+<p>Gabi, dona de uma loja de doces gourmet, contratou uma empresa para desenvolver um banco de dados para gerenciar as vendas das faliais, quadro de funcionários e o controle do estoque. <br>
  Sabe-se que cada uma das faliais possui um corpo de funcionários especializados, sendo eles: confeiteiro e vendedor. <br>
  Cada filial emite semestralmente relatórios com diversas informações sobre o índice de vendas de cada doce, do qual indica qual produto deve ser substituído. <br>
  As filiais possuem estoques abastecidos por diversos fornecedores diariamente. Para manter a qualidade do produto os ingredientes precisam estar em dia e com uma boa quantidade em estoque, por isso, deve-se sempre saber quando reabastecê-lo, garantido seu bom funcionamento.
@@ -23,7 +23,7 @@
 
 ## **Atributos**
 
-| Confeiteiro | Vendedor    | Insumo     | Cliente    | Fornecedores| Produtos       | Relatórios      | Filial      | Vendas         |
+| Confeiteiro | Vendedor    | Insumo     | Cliente    | Fornecedor  | Produto        | Relatório       | Filial      | Venda          |
 | :---------: | :---------: | :--------: | :--------: | :---------: | :------------: | :-------------: | :---------: | :------------: |
 | Nome *      | Nome *      | Validade * | Nome *     | CNPJ #      | Nome *         | UID #           | CNPJ *      | Nota Fiscal #  |
 | CPF #       | CPF #       | Entrega *  | CPF #      | Empresa *   | Validade *     | Semestre *      | CEP *       | Data *         |
