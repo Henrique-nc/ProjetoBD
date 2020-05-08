@@ -38,15 +38,15 @@ Obs.: Resultado = Produto a ser substituído.
 
 |              | Filial | Cliente | Fornecedor | Relatório | Produto | Insumo  | Funcionário | Confeitero | Vendedor | Venda |
 | :----------: | :----: | :-----: | :--------: | :-------: | :-----: | :-----: | :---------: | :--------: | :------: | :---: |
-| Filial       | -      |         |            |    x      |     x   |   x     |    x        |     x      |    x     |       |
+| Filial       | -      |         |            |    x      |         |   x     |    x        |     x      |    x     |       |
 | Cliente      | -      | -       |            |           |         |         |             |            |          |  x    |
 | Fornecedor   | -      | -       | -          |           |         |    x    |             |            |          |       |
-| Relatório    | -      | -       | -          | -         |         |         |             |            |          | x     |
-| Produto      | -      | -       | -          | -         | -       |    x    |             |      x     |    x     |       |
+| Relatório    | -      | -       | -          | -         |         |         |             |            |          |       |
+| Produto      | -      | -       | -          | -         | -       |    x    |             |            |          |  x    |
 | Insumo       | -      | -       | -          | -         | -       | -       |             |            |          |       |
 | Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      |       |
 | Confeitero   | -      | -       | -          | -         | -       | -       | -           | -          |          |       |
-| Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |  x    |
+| Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |       |
 | Venda        | -      | -       | -          | -         | -       | -       | -           | -          | -        | -     |
 
 ## **Modelo Conceitual**
