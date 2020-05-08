@@ -30,7 +30,7 @@
 | Telefone *  | Telefone *  | Item *     | Telefone * | Marca *     | Ingredientes o | Indice venda *  | Gerente *   | Valor total *  |
 | Email o     | Email o     | Marca *    | Email o    | Data *      | UID #          | Resultado    *  | Email o     |                |
 | Endereço *  | Endereço *  | UID #      |            |             |                |                 | Telefone *  |
-                                                                                                       | UID #       |
+|             |             |            |            |             |                |                 | UID #       |
 
 Obs.: Resultado = Produto a ser substituído.
 
