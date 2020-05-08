@@ -12,12 +12,12 @@
  As filiais possuem estoques abastecidos por diversos fornecedores diariamente. Para manter a qualidade do produto os ingredientes precisam estar em dia e com uma boa quantidade em estoque, por isso, deve-se sempre saber quando reabastecê-lo, garantido seu bom funcionamento.
 
 ## **Entidades**
-* Vendas
-* Funcionários: Confeiteiro e vendedor *(herança)* substituir?
+* Venda
+* Funcionário: Confeiteiro e vendedor *(herança)*
 * Insumo
-* Produtos
-* Relatórios
-* Fornecedores
+* Produto
+* Relatório
+* Fornecedor
 * Cliente
 * Filial
 
@@ -25,11 +25,12 @@
 
 | Confeiteiro | Vendedor    | Insumo     | Cliente    | Fornecedores| Produtos       | Relatórios      | Filial      | Vendas         |
 | :---------: | :---------: | :--------: | :--------: | :---------: | :------------: | :-------------: | :---------: | :------------: |
-| Nome *      | Nome *      | Validade * | Nome *     | CNPJ #      | Nome *         | ID #            | CNPJ *      | Nota Fiscal #  |
-| CPF #       | CPF #       | Entrega *  | CPF #      | Empresa *   | Validade *     | Semestre *      | Endereço #  | Data *         |
+| Nome *      | Nome *      | Validade * | Nome *     | CNPJ #      | Nome *         | UID #           | CNPJ *      | Nota Fiscal #  |
+| CPF #       | CPF #       | Entrega *  | CPF #      | Empresa *   | Validade *     | Semestre *      | CEP *       | Data *         |
 | Telefone *  | Telefone *  | Item *     | Telefone * | Marca *     | Ingredientes o | Indice venda *  | Gerente *   | Valor total *  |
-| Email o     | Email o     | Marca *    | Email o    | Data *      | ID #           | Resultado    *  | Email o     |                |
-| Endereço *  | Endereço *  | ID #       |            |             |                |                 | Telefone *  |
+| Email o     | Email o     | Marca *    | Email o    | Data *      | UID #          | Resultado    *  | Email o     |                |
+| Endereço *  | Endereço *  | UID #      |            |             |                |                 | Telefone *  |
+                                                                                                       | UID #       |
 
 Obs.: Resultado = Produto a ser substituído.
 
