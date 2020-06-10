@@ -55,4 +55,4 @@ Obs.: Resultado = Produto a ser substituído.
 
 ## **Banco de dados no site da Oracle Live SQL**
 
-https://livesql.oracle.com/apex/f?p=590:71:10807875356660::NO:::
+https://livesql.oracle.com/apex/livesql/s/j7omk6jy6glxaurz7n2nar1qx
