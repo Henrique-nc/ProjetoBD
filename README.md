@@ -52,3 +52,7 @@ Obs.: Resultado = Produto a ser substituído.
 ## **Modelo Conceitual**
 
 ![WhatsApp Image 2020-05-08 at 20 18 10](https://user-images.githubusercontent.com/62437015/81456632-717f8e80-9169-11ea-938c-3b6a4fa9e3c1.jpeg)
+
+## **Banco de dados no site da Oracle Live SQL**
+
+https://livesql.oracle.com/apex/f?p=590:71:10807875356660::NO:::
