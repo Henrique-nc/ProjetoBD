@@ -54,7 +54,8 @@ Obs.: Resultado = Produto a ser substituído.
 
 ## **Modelo Lógico**
 
-![WhatsApp Image 2020-06-09 at 20.40.04.jpg]
+![2034385b-d98d-4384-ac92-fbe7bbb05c60](https://user-images.githubusercontent.com/62437015/85328915-f4ee0880-b4a7-11ea-9d75-d8d8f0784758.jpg)
+
 
 ## **Banco de dados no site da Oracle Live SQL**
 
