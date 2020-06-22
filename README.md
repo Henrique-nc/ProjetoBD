@@ -32,3 +32,6 @@
 
 ## **Banco de dados no site da Oracle Live SQL**
 
+https://livesql.oracle.com/apex/livesql/s/j9plcf9jelxldboy5kdqa4agi
+
+**Atenção**: Porváve que o link esteja com alguns problemas, contudo o banco de dados esta pronto e funcionando. Agradeço a compreenção.
