@@ -27,8 +27,7 @@
 
 ## **Modelo Lógico**
 
-![WhatsApp Image 2020-06-09 at 20.40.04.jpg]
-
+![image](https://user-images.githubusercontent.com/62437015/85341367-56b96d00-b4be-11ea-948c-6a075c8ea1cd.png)
 
 ## **Banco de dados no site da Oracle Live SQL**
 
