@@ -12,7 +12,7 @@
 
 ## **Entidades**
 * Venda
-* Funcionário: Confeiteiro e vendedor *(herança)*
+* Funcionário: Confeiteiro, gerente e vendedor *(herança)*
 * Insumo
 * Produto
 * Relatório
@@ -33,21 +33,6 @@
 
 Obs.: Resultado = Produto a ser substituído.
 
-## **Quadro de relações**
-
-|              | Filial | Cliente | Fornecedor | Relatório | Produto | Insumo  | Funcionário | Confeitero | Vendedor | Venda |
-| :----------: | :----: | :-----: | :--------: | :-------: | :-----: | :-----: | :---------: | :--------: | :------: | :---: |
-| Filial       | -      |         |            |    x      |         |   x     |    x        |     x      |    x     |       |
-| Cliente      | -      | -       |            |           |         |         |             |            |          |  x    |
-| Fornecedor   | -      | -       | -          |           |         |    x    |             |            |          |       |
-| Relatório    | -      | -       | -          | -         |         |         |             |            |          |       |
-| Produto      | -      | -       | -          | -         | -       |    x    |             |            |          |  x    |
-| Insumo       | -      | -       | -          | -         | -       | -       |             |            |          |       |
-| Funcionário  | -      | -       | -          | -         | -       | -       | -           |        x   |   x      |       |
-| Confeitero   | -      | -       | -          | -         | -       | -       | -           | -          |          |       |
-| Vendedor     | -      | -       | -          | -         | -       | -       | -           | -          | -        |       |
-| Venda        | -      | -       | -          | -         | -       | -       | -           | -          | -        | -     |
-
 ## **Modelo Conceitual**
 
 ![2034385b-d98d-4384-ac92-fbe7bbb05c60](https://user-images.githubusercontent.com/62437015/85328915-f4ee0880-b4a7-11ea-9d75-d8d8f0784758.jpg)
@@ -59,4 +44,3 @@ Obs.: Resultado = Produto a ser substituído.
 
 ## **Banco de dados no site da Oracle Live SQL**
 
-https://livesql.oracle.com/apex/livesql/s/j7omk6jy6glxaurz7n2nar1qx
